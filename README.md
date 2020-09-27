@@ -1,1 +1,1 @@
-# protection-v2
+# protection-bot
