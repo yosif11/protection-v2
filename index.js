@@ -1139,4 +1139,4 @@ client.on('voiceStateUpdate', (voiceOld, voiceNew) => {
 	}
 });
 
-client.login("");
+client.login(process.env.token);
